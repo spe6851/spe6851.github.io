@@ -113,4 +113,11 @@ ul{
 	#menu input:checked + label {color:white}
 	#menu input:checked + label:before {content:"\00d7"}
 	#menu input:checked ~ ul {display:block}
+	.sec{
+	background-color: #333;
+	height: 200px;
+	color: white;
+	text-align: center;
+	line-height: 200px;
+}
 }
